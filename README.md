@@ -63,4 +63,4 @@ return(0);
 
 **Result :**
 
-  Thus The DDA algorithm using the code has been verified successfully
+  Thus the implement the DDA algorithm to draw a line using a c coding has been exxecuted and verified successfully
